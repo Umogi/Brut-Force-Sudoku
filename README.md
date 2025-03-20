@@ -50,4 +50,4 @@ This program is a brute-force Sudoku solver written in C. It iterates through po
 - The program clears the console before each print update (`system("cls")`), which may need modification for non-Windows systems.
 
 ## License
-This project is open-source. Feel free to modify and distribute it.
+This project is open-source. Feel free to modify and distribute it [LICENSE](LICENSE).
